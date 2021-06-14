@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>50 Days of Coding Notes CSR</title>
-    <link>https://example.com/</link>
+    <link>https://charlescsr.github.io/50-days-challenge-topics/</link>
     <description>Recent content on 50 Days of Coding Notes CSR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 14 Jun 2021 12:02:01 +0530</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://charlescsr.github.io/50-days-challenge-topics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Day 1</title>
-      <link>https://example.com/posts/day-1/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-1/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-1/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-1/</guid>
       <description>Day 1
 Day 1 Topics:
  IQR Outliers Box Plot  IQR (Inter Quartile Range)
@@ -26,40 +26,40 @@ Mostly put together in a box plot, The outliers are the points in the plot that 
     
     <item>
       <title>Day 10</title>
-      <link>https://example.com/posts/day-10/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-10/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-10/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-10/</guid>
       <description>Day 10
 Day 10  Tokenisation Stop words Stemming  </description>
     </item>
     
     <item>
       <title>Day 11</title>
-      <link>https://example.com/posts/day-11/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-11/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-11/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-11/</guid>
       <description>Day 11
 Day 11  Static v Dynamic Training Decision Tree v Random Forest  </description>
     </item>
     
     <item>
       <title>Day 12</title>
-      <link>https://example.com/posts/day-12/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-12/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-12/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-12/</guid>
       <description>Day 12
 Day 12  NER Displacy in spaCy Word2Vec  </description>
     </item>
     
     <item>
       <title>Day 13</title>
-      <link>https://example.com/posts/day-13/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-13/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-13/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-13/</guid>
       <description>Day 13
 Day 13 Look into SQL. We just found content for a few more days.
 NoSQL probably after that and then something in statistics.
@@ -68,70 +68,70 @@ NoSQL probably after that and then something in statistics.
     
     <item>
       <title>Day 14</title>
-      <link>https://example.com/posts/day-14/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-14/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-14/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-14/</guid>
       <description>Day 14
 Day 14  SQL Wildcards SQL Joins   </description>
     </item>
     
     <item>
       <title>Day 15</title>
-      <link>https://example.com/posts/day-15/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-15/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-15/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-15/</guid>
       <description>Day 15
 Day 15  SQL Between SQL Union SQL Count, Avg, Sum  </description>
     </item>
     
     <item>
       <title>Day 16</title>
-      <link>https://example.com/posts/day-16/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-16/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-16/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-16/</guid>
       <description>Day 16
 Day 16  SQL Where SQL Having SQL Aliases  </description>
     </item>
     
     <item>
       <title>Day 17</title>
-      <link>https://example.com/posts/day-17/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-17/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-17/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-17/</guid>
       <description>Day 17
 Day 17  SQL SELECT INTO SQL INSERT INTO SELECT SQL Constraints  </description>
     </item>
     
     <item>
       <title>Day 18</title>
-      <link>https://example.com/posts/day-18/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-18/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-18/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-18/</guid>
       <description>Day 18
 Day 18  Math, Variables, and Strings  </description>
     </item>
     
     <item>
       <title>Day 19</title>
-      <link>https://example.com/posts/day-19/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-19/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-19/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-19/</guid>
       <description>Day 19
 Day 19  Vectors   </description>
     </item>
     
     <item>
       <title>Day 2</title>
-      <link>https://example.com/posts/day-2/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-2/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-2/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-2/</guid>
       <description>Day 2
 Day 2  The confusion matrix True and False in positves and negatives Classification Report  Precision is something that shows us how much of stuff is actually correct from what is predicted from the model.
 No false positves - Precision 1.0
@@ -142,110 +142,110 @@ F-score aka F1 score</description>
     
     <item>
       <title>Day 20</title>
-      <link>https://example.com/posts/day-20/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-20/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-20/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-20/</guid>
       <description>Day 20
 Day 20  Arrays and Matrices   </description>
     </item>
     
     <item>
       <title>Day 21</title>
-      <link>https://example.com/posts/day-21/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-21/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-21/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-21/</guid>
       <description>Day 21
 Day 21  read.csv import package   </description>
     </item>
     
     <item>
       <title>Day 22</title>
-      <link>https://example.com/posts/day-22/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-22/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-22/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-22/</guid>
       <description>Day 22
 Day 22  Importing datasets Reading .txt files Writing and Saving files  </description>
     </item>
     
     <item>
       <title>Day 23</title>
-      <link>https://example.com/posts/day-23/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-23/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-23/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-23/</guid>
       <description>Day 23
 Day 23  String operations in R Regex  </description>
     </item>
     
     <item>
       <title>Day 24</title>
-      <link>https://example.com/posts/day-24/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-24/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-24/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-24/</guid>
       <description>Day 24
 Day 24  Pivot tables, Cross tab Embeddings  </description>
     </item>
     
     <item>
       <title>Day 25</title>
-      <link>https://example.com/posts/day-25/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-25/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-25/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-25/</guid>
       <description>Day 25
 Day 25  Reading text files to CSV Cleaning column names of whitespace  </description>
     </item>
     
     <item>
       <title>Day 26</title>
-      <link>https://example.com/posts/day-26/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-26/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-26/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-26/</guid>
       <description>Day 26
 Day 26  Clustering and centroid based clustering Clipping  </description>
     </item>
     
     <item>
       <title>Day 27</title>
-      <link>https://example.com/posts/day-27/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-27/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-27/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-27/</guid>
       <description>Day 27
 Day 27  Convolution Convolution filter Convulutional layer  </description>
     </item>
     
     <item>
       <title>Day 28</title>
-      <link>https://example.com/posts/day-28/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-28/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-28/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-28/</guid>
       <description>Day 28
 Day 28  Activation function  relu sigmoid   Backpropagation Reinforcement Learning  </description>
     </item>
     
     <item>
       <title>Day 29</title>
-      <link>https://example.com/posts/day-29/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-29/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-29/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-29/</guid>
       <description>Day 29
 Day 29  Cross-validation Data Augmentation Early stopping  </description>
     </item>
     
     <item>
       <title>Day 3</title>
-      <link>https://example.com/posts/day-3/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-3/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-3/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-3/</guid>
       <description>Day 3
 Day 3  Loss Gradient Descent Learning Rate  Loss is essentially how far from the actual value the model predicted. Loss is higher when the values are farther from the prediction line.
 Gradient Descent is a method to minimise loss where you take a Convex Curve got by examining all possible values of loss.
@@ -254,110 +254,110 @@ Its an iterative approach where it starts at a point on the curve and it keeps g
     
     <item>
       <title>Day 30</title>
-      <link>https://example.com/posts/day-30/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-30/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-30/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-30/</guid>
       <description>Day 30
 Day 30  Bucketing Histogram  </description>
     </item>
     
     <item>
       <title>Day 31</title>
-      <link>https://example.com/posts/day-31/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-31/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-31/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-31/</guid>
       <description>Day 31
 Day 31  Boxplot Regression type plot in Plotly Ordinary Least Squares  </description>
     </item>
     
     <item>
       <title>Day 32</title>
-      <link>https://example.com/posts/day-32/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-32/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-32/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-32/</guid>
       <description>Day 32
 Day 32  Loss Loss function and types  </description>
     </item>
     
     <item>
       <title>Day 33</title>
-      <link>https://example.com/posts/day-33/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-33/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-33/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-33/</guid>
       <description>Day 33
 Day 33  Loss curve Bias and types  </description>
     </item>
     
     <item>
       <title>Day 34</title>
-      <link>https://example.com/posts/day-34/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-34/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-34/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-34/</guid>
       <description>Day 34
 Day 34  Hidden Layer Deep Neural Network Wide Model  </description>
     </item>
     
     <item>
       <title>Day 35</title>
-      <link>https://example.com/posts/day-35/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-35/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-35/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-35/</guid>
       <description>Day 35
 Day 35  Hierarchical clustering Hyperparamaters  </description>
     </item>
     
     <item>
       <title>Day 36</title>
-      <link>https://example.com/posts/day-36/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-36/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-36/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-36/</guid>
       <description>Day 36
 Day 36  Batches and Batch size Batch Normalisation  </description>
     </item>
     
     <item>
       <title>Day 37</title>
-      <link>https://example.com/posts/day-37/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-37/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-37/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-37/</guid>
       <description>Day 37
 Day 37  Bayesian Neural Network Boosting  </description>
     </item>
     
     <item>
       <title>Day 38</title>
-      <link>https://example.com/posts/day-38/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-38/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-38/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-38/</guid>
       <description>Day 38
 Day 38  Dependent and Independent Variables Baseline Broadcasting and using NumPy to do it  </description>
     </item>
     
     <item>
       <title>Day 39</title>
-      <link>https://example.com/posts/day-39/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-39/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-39/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-39/</guid>
       <description>Day 39
 Day 39  Pickle ML models Pipelining Pooling  </description>
     </item>
     
     <item>
       <title>Day 4</title>
-      <link>https://example.com/posts/day-4/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-4/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-4/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-4/</guid>
       <description>Day 4
 Day 4  ROC Curve AUC Prediction Bias  An ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters:
  True Positive Rate False Positive Rate  Area under the ROC curve is nothing but the area below the ROC curve that is given.
@@ -366,70 +366,70 @@ For Prediction Bias check out Google ML course</description>
     
     <item>
       <title>Day 40</title>
-      <link>https://example.com/posts/day-40/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-40/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-40/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-40/</guid>
       <description>Day 40
 Day 40  Tensor Tensor Rank Tensor Size Tensor Shape  </description>
     </item>
     
     <item>
       <title>Day 41</title>
-      <link>https://example.com/posts/day-41/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-41/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-41/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-41/</guid>
       <description>Day 41
 Day 41  Decision Boundary Quantile Bucketing Recurrent Neural Network  </description>
     </item>
     
     <item>
       <title>Day 42</title>
-      <link>https://example.com/posts/day-42/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-42/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-42/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-42/</guid>
       <description>Day 42
 Day 42  Ensemble Epoch Feedforward Neural Network  </description>
     </item>
     
     <item>
       <title>Day 43</title>
-      <link>https://example.com/posts/day-43/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-43/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-43/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-43/</guid>
       <description>Day 43
 Day 43  Neuron in a neural network Weights in ML or DL Transfer Learning  </description>
     </item>
     
     <item>
       <title>Day 44</title>
-      <link>https://example.com/posts/day-44/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-44/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-44/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-44/</guid>
       <description>Day 44
 Day 44  C and Python Engine in Pandas Data Analysis Process Generative Adversarial Network  </description>
     </item>
     
     <item>
       <title>Day 45</title>
-      <link>https://example.com/posts/day-45/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-45/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-45/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-45/</guid>
       <description>Day 45
 Day 45  Softmax LSTM Forget Gate in LSTM  </description>
     </item>
     
     <item>
       <title>Day 46</title>
-      <link>https://example.com/posts/day-46/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-46/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-46/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-46/</guid>
       <description>Day 46
 Day 46  Mini batch and its uses The NaN trap Optimizers in Tensorflow  Mini batch is taking a batch size lower than the selected batch size. It is more efficient and quicker to calculate loss for mini batches than the whole training data.
 When training the model, if one of the numbers becomes NaN and it leads to many or all NaN&amp;rsquo;s to the other numbers in a model.</description>
@@ -437,40 +437,40 @@ When training the model, if one of the numbers becomes NaN and it leads to many 
     
     <item>
       <title>Day 47</title>
-      <link>https://example.com/posts/day-47/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-47/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-47/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-47/</guid>
       <description>Day 47
 Day 47  Bounding Box IoU Minimax loss in GAN  </description>
     </item>
     
     <item>
       <title>Day 48</title>
-      <link>https://example.com/posts/day-48/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-48/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-48/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-48/</guid>
       <description>Day 48
 Day 48  Exploding Grdient Problem Gradient clipping Dimesion Reduction  </description>
     </item>
     
     <item>
       <title>Day 49</title>
-      <link>https://example.com/posts/day-49/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-49/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-49/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-49/</guid>
       <description>Day 49
 Day 49  Graph execution and Eager Execution in Tensorflow  </description>
     </item>
     
     <item>
       <title>Day 5</title>
-      <link>https://example.com/posts/day-5/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-5/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-5/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-5/</guid>
       <description>Day 5
 Day 5  Trend Seasonality  These 2 are the main features that break standard ML models.
 They are the reasons static thresholds fail immediately.
@@ -480,10 +480,10 @@ Seasonality is however a periodic pattern that happens in certain period. It can
     
     <item>
       <title>Day 50</title>
-      <link>https://example.com/posts/day-50/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-50/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-50/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-50/</guid>
       <description>Day 50
 Day 50  Convolutional Operation MNIST Size Invariance  The following two-step mathematical operation:
  Element-wise multiplication of the convolutional filter and a slice of an input matrix. (The slice of the input matrix has the same rank and size as the convolutional filter.) Summation of all the values in the resulting product matrix.  For example, consider the following 5x5 input matrix:
@@ -492,40 +492,40 @@ Now imagine the following 2x2 convolutional filter:</description>
     
     <item>
       <title>Day 6</title>
-      <link>https://example.com/posts/day-6/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-6/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-6/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-6/</guid>
       <description>Day 6
 Day 6  Logistic Regression   </description>
     </item>
     
     <item>
       <title>Day 7</title>
-      <link>https://example.com/posts/day-7/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-7/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-7/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-7/</guid>
       <description>Day 7
 Day 7  Overfitting One-Hot Encoding Feature Engineering  </description>
     </item>
     
     <item>
       <title>Day 8</title>
-      <link>https://example.com/posts/day-8/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-8/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-8/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-8/</guid>
       <description>Day 8
 Day 8  Transformers (NLP) BERT  </description>
     </item>
     
     <item>
       <title>Day 9</title>
-      <link>https://example.com/posts/day-9/</link>
+      <link>https://charlescsr.github.io/50-days-challenge-topics/posts/day-9/</link>
       <pubDate>Mon, 14 Jun 2021 12:02:01 +0530</pubDate>
       
-      <guid>https://example.com/posts/day-9/</guid>
+      <guid>https://charlescsr.github.io/50-days-challenge-topics/posts/day-9/</guid>
       <description>Day 9
 Day 9  Overfitting Regularization  </description>
     </item>
