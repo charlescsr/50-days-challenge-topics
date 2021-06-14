@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://charlescsr.github.io/50-days-challenge-topics/"
 title = "50 Days of Coding Notes CSR"
 author = "CSR"
 canonifyurls = true
